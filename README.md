@@ -1,7 +1,7 @@
 <h1>Blog app in laravel</h1>
-<p>A laravel blog webapp that allows users create accounts and write, edit and dlete their own articles</p>
+<p>A laravel blog webapp that allows users create accounts and write, edit and delete their own articles</p>
 
-<h2>Notable Specifications</h2>
+<h2>Specifications</h2>
 <ul>
   <li>PHP version: 7.2</li>
   <li>Laravel version: 6.2</li>
